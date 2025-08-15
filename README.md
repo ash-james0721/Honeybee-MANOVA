@@ -1,5 +1,7 @@
 # Honeybee-MANOVA
 
+
+
 # Problem Statement
 * Honeybee colonies in US have faced significant declines in recent years due to several stressors such as pests, disease, pesticide exposure, and environmental factors.
 * Honeybee health is critical for pollination, food production, and maintaining a healthy ecosystem. Continued monitoring the impact of stressors helps inform conservation methods.
